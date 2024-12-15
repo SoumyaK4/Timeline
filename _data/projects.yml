@@ -29,5 +29,5 @@
     - tag: Python
     - tag: Django
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+# - name: project Z
+#   descr: "You can also set a project without demo link and no tags"

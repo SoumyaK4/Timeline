@@ -1,51 +1,17 @@
-### VALUES YOU SHOULD CHANGE ###
-
-# GENERAL SITE SETTINGS
-# title: This will be displayed as the website's name in your browser tab.
 title: SoumyaK4
-# description: This will be meta HTML tag content. This can be ignored.
 description: Martial Arts for Body & Brain
-# baseurl: The subpath of your site
-# > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/Nu"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: SoumyaK4
-# typing_text: This will be typed before 'scroll down for more'.
-# > set this to your job title, e.g. Fullstack Developer
-typing_text: Scroll Down
-# email: Your E-Mail address for the email button.
-# email: email@example.com
-# For every social button you want to display, set your username or userid
-# If you do not use one of the following websites, then leave it empty
-# > twitter_username:
 github_username: SoumyaK4 
 instagram_username: SoumyaK4 
 youtube_username: SoumyaK4 
-twitch_username: SoumyaK4 
-# codepen_username: exampleUser
-# dev_username: exampleUser
-# linkedin_username: exampleUser
-# twitter_username: exampleUser
-
-# ABOUT ME SECTION
-# show_aboutme_card:
-# > setting this to true, will display the About Me section
-# > setting this to false, will omit the About Me section
-show_aboutme_card: true
-# about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
-# about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lor
-
-# SKILLS SECTION
-# show_skills_card:
-# > setting this to true, will display the Skills section
-# > setting this to false, will omit the Skills section
-show_skills_card: true
-# about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+telegram_username: SoumyaK4
+# twitch_username: SoumyaK4 
+# linkedin_username: SoumyaK4
+# twitter_username: SoumyaK4_
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -53,7 +19,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: A Timeline of My life
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -62,29 +28,19 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: true
+show_projects: false
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
-
-# CONTACT SECTION
-# show_contact_card:
-# > setting this to true, will display the Contact section
-# > setting this to false, will omit the Contact section
-show_contact_card: true
-# contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
-# contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore m
 
 # GITHUB-METADATA
 # Set this to your forked repository
@@ -130,4 +86,7 @@ exclude:
     "gulpfile.js",
     "node_modules",
     "package.json",
+    "docs",
+    "yarn.lock",
+    "README.md",
   ]

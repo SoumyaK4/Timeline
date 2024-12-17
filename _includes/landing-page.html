@@ -58,8 +58,21 @@
         </a>
       {% endif %}
 
+      {% if site.home == true %}
+        <a class="social-link" aria-label="My Website" href="https://soumyak4.in">
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#whatsapp' | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+        </a>
+      {% endif %}
+
       {% if site.telegram_username != null %}
-        <a class="social-link linkedin" aria-label="My Telegram" target="_blank"
+        <a class="social-link" aria-label="My Telegram" target="_blank"
           rel="noreferrer" href="https://t.me/{{site.telegram_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
@@ -70,12 +83,12 @@
               <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#telegram' | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">LinkedIn</span>
+          <span class="label">Telegram</span>
         </a>
       {% endif %}
 
       {% if site.twitch_username != null %}
-        <a class="social-link twitter" aria-label="My Twitch" target="_blank"
+        <a class="social-link" aria-label="My Twitch" target="_blank"
           rel="noreferrer" href="https://twitch.tv/{{site.twitch_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
@@ -88,8 +101,26 @@
           </div>
           <span class="label">Twitch</span>
         </a>
-      {% endif %}
+      {% endif %} 
+
+      {% if site.twitter_username != null %}
+      <a class="social-link twitter" aria-label="My Twitch" target="_blank"
+        rel="noreferrer" href="https://x.com/{{site.twitter_username}}"
+      >
+        <svg viewBox="0 0 200 200" class="circle">
+          <circle cx="100" cy="100" r="80" />
+        </svg>
+        <div class="social">
+          <svg class="social-svg" viewBox="0 0 48 48">
+            <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#twitter' | prepend: site.baseurl }}"></use>
+          </svg>
+        </div>
+        <span class="label">Twitter</span>
+      </a>
+    {% endif %} 
     </div>
-    <a class="highlight-link" href="https://soumyak4.in">Main Site</a>
+    <br><br>
+    <a class="highlight-link" href="https://soumyak4.in">Main Site</a><br>
+    <p>Scroll Down For Timeline</p>
   </div>
 </div>

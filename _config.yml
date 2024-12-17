@@ -1,6 +1,6 @@
 title: SoumyaK4
 description: Martial Arts for Body & Brain
-baseurl: "/Nu"
+baseurl: "/Timeline"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -9,20 +9,15 @@ github_username: SoumyaK4
 instagram_username: SoumyaK4 
 youtube_username: SoumyaK4 
 telegram_username: SoumyaK4
-# twitch_username: SoumyaK4 
+twitch_username: SoumyaK4 
 # linkedin_username: SoumyaK4
-# twitter_username: SoumyaK4_
+twitter_username: SoumyaK4_
+home: true # for showing main site logo
 
 # TIMELINE SECTION
-# show_timeline_card:
-# > setting this to true, will display the Timeline section
-# > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: A Timeline of My life
-# cv_download_link: The link where you host your cv.
-# > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -45,7 +40,7 @@ os_projects_title: Open Source Projects
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: SoumyaK4/Nu
+repository: SoumyaK4/Timeline
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

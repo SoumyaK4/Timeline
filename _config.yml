@@ -23,24 +23,24 @@ timeline_title: A Timeline of Important Life Events
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: false
+show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: false
+show_projects: true
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: false
+show_os_projects: True
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: SoumyaK4/Timeline
+repository: SoumyaK4/SoumyaK4
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.

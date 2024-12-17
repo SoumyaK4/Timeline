@@ -17,7 +17,7 @@ home: true # for showing main site logo
 # TIMELINE SECTION
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: A Timeline of My life
+timeline_title: A Timeline of Important Life Events
 
 # PROJECTS SECTION
 # show_projects_card:

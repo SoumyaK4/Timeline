@@ -1,61 +1,111 @@
-# > title: Name of your timeline entry, university or work place
-# > title-url: Link to your timeline entry, university or work place
-# > date: Time span
-# > subtitle: The description under the title
-# > tags: List of tags you want to associate with the entry
-# > timeline-side: The side on which you want to display the entry: left or right
-
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-#   timeline-side: right
-
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Body & Brain Dojo
+  title-url: https://bbdojo.soumyak4.in
+  date: 2024 - Present
+  subtitle: Teaching Martial Arts for Body & Brain
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Martial Arts
+    - tag: Kung Fu
+    - tag: Taichi
+    - tag: Ving Tsun
+    - tag: Weiqi / Baduk / Go
+    - tag: FMA / Kali 
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Represented India in International Competitions
+  title-url: https://youtu.be/RzcPt91i4lQ?si=c5BY2TnZJ3_igfZP
+  date: Sep 2023 - Sep 2024
+  subtitle: Korea Prime Minister Cup 2023 & Asian Weiqi Championship 2023-2024
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: 18th KPMC
+    - tag: AWC 2023
+    - tag: AWC 2024
+    - tag: Baduk
+    - tag: Weiqi
+    - tag: Go Game
+    - tag: Mind Sports
+    - tag: International Competitions
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Coursera (Google - IBM)
+  title-url: https://coursera.org/
+  date: Jan 2022 - Dec 2022
+  subtitle: Learning Tech Stuff
+  tags:
+    - tag: IT Automation with Python
+    - tag: Cloud Computing
+    - tag: Data Visualization
+    - tag: Data Analysis
+    - tag: Machine Learning
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Association of Indian Go Players
+  title-url: https://aigp.org.in/
+  date: 2021 - Present
+  subtitle: Teacher - Admin
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Weiqi
+    - tag: Baduk
+    - tag: Igo
+    - tag: Mind Sports
+    - tag: Sports Association
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Techno India University
+  title-url: https://technoindiauniversity.ac.in/
+  date: 2019 - 2022
+  subtitle: B.C.A. Computer Science
+  tags:
+    - tag: Web Dev
+    - tag: HTML - CSS - Javascript - PHP
+    - tag: Operating System
+    - tag: Software Development
+    - tag: Java
+    - tag: C
+    - tag: C++
+    - tag: Data Analysis With R
+    - tag: Machine Learning With Python
+    - tag: Python
+  timeline-side: left
+
+- title: Wing Chun Cultural Centre Palta
+  title-url: https://google.com/search?q=Wing+Chun+Cultural+Centre+-+Palta
+  date: 2016 - 2024
+  subtitle: Teaching Martial Arts
+  tags:
+    - tag: Wing Chun
+    - tag: Ving Tsun
+    - tag: Kung Fu
+    - tag: Martial Arts
+    - tag: KABOSI (Kali - Boxing - Silat)
+    - tag: Brahmastra
+    - tag: Eskrima (Balintawak - Kalis Ilustrisimo)
+  timeline-side: right
+
+- title: NIIT
+  title-url: https://aigp.org.in/
+  date: 2016 - 2017
+  subtitle: Diploma in Computer Science
+  tags:
+    - tag: Data Structures
+    - tag: Algorithms
+    - tag: HTML
+    - tag: CSS
+    - tag: Javascript
+    - tag: Java
+    - tag: Python
+    - tag: PHP
+  timeline-side: left
+
+- title: The Guardian Fist Martial School (Wing Chun Kolkata - WSLVT INDIA)
+  title-url: https://fb.com/TheGuardianFist/
+  date: 2015 - 2019
+  subtitle: Learning Martial Arts
+  tags:
+    - tag: Wing Chun
+    - tag: Ving Tsun
+    - tag: Kung Fu
+    - tag: Martial Arts
+    - tag: KABOSI (Kali - Boxing - Silat)
+    - tag: Brahmastra
+    - tag: Eskrima (Balintawak - Kalis Ilustrisimo)
   timeline-side: left

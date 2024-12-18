@@ -13,15 +13,6 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Weiqi Roadmap
-  descr: "A Guide / Roadmap for the Game of Go / Baduk / Weiqi."
-  demo: https://weiqi.soumyak4.in
-  tags:
-    - tag: Weiqi
-    - tag: Baduk
-    - tag: Go Game
-    - tag: Mind Sports
-
 - name: B&B Dojo
   descr: "Body & Brain Dojo - For a better Pysical & Mental Health"
   demo: https://bbdojo.soumyak4.in
@@ -31,6 +22,42 @@
     - tag: Ving Tsun
     - tag: Kung Fu
     - tag: Eskrima
+
+- name: Weiqi Roadmap
+  descr: "A Guide / Roadmap for the Game of Go / Baduk / Weiqi."
+  demo: https://weiqi.soumyak4.in
+  tags:
+    - tag: Weiqi
+    - tag: Baduk
+    - tag: Go Game
+    - tag: Mind Sports
     
+- name: LQIP-base64
+  descr: "A semi over engineered, free LQIP generator."
+  demo: https://github.com/SoumyaK4/LQIP-base64
+  tags:
+    - tag: LQIP
+    - tag: base64
+    - tag: Python
+    - tag: Script
+    
+- name: AIGP
+  descr: "Association of Indian Go Players"
+  demo: https://github.com/SoumyaK4/aigp-jekyll
+  tags:
+    - tag: Weiqi
+    - tag: Baduk
+    - tag: Go Game
+    - tag: Mind Sports
+    
+# - name: Weiqi Lectures
+#   descr: "A Guide / Roadmap for the Game of Go / Baduk / Weiqi."
+#   demo: https://weiqi.soumyak4.in
+#   tags:
+#     - tag: Weiqi
+#     - tag: Baduk
+#     - tag: Go Game
+#     - tag: Mind Sports
+
 # - name: project Z
 #   descr: "You can also set a project without demo link and no tags"
